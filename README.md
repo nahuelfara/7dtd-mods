@@ -152,6 +152,10 @@ Add the following new items:
 - Rapid Recharger (required to repair the railgun)
 - Caseless Round (ammo for the railgun)
 
+### MoreHealthMod
+
+Changes Slow Metabolism perk to instead of slow food/water loss to give max health. Perk levels give 10, 33, 55, 87, 100 percent boost to max health. At level 10 fort you can have 400 hp. This is more important late game than eating and drinking.
+
 # OTHER MODS I USE
 
 ### LadderMovementSpeedMod
